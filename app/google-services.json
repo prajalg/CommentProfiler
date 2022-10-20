@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "976031161453",
+    "project_id": "commentprofiler-4b3d3",
+    "storage_bucket": "commentprofiler-4b3d3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:976031161453:android:758e1670da58be3119f364",
+        "android_client_info": {
+          "package_name": "com.example.commentprofiler"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "976031161453-vhksfb7q9s6n39csqrffeuiaq760bm1s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABmZ9GXA5pzjgGKEWDt3a-MiPUtOXGObU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "976031161453-vhksfb7q9s6n39csqrffeuiaq760bm1s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

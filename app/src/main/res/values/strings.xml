@@ -1,3 +1,16 @@
 <resources>
     <string name="app_name">CommentProfiler</string>
+    <string name="nav_open">Open</string>
+    <string name="nav_close">Close</string>
+    <string name="login_caption">Already have an account?</string>
+    <string name="email">Email</string>
+    <string name="pass">Password</string>
+    <string name="name">Name</string>
+    <string name="login">Login</string>
+    <string name="signup_caption">Welcome to</string>
+    <string name="forgot_pass">FORGOT PASSWORD?</string>
+    <string name="or">OR</string>
+    <string name="signup">Sign Up</string>
+    <string name="signup_login">New User? <u>Sign Up</u> now!</string>
+    <string name="login_signup">Already registered? <u>Login</u></string>
 </resources>
